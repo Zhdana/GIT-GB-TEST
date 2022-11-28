@@ -9,4 +9,5 @@
 >**git add file_name** - track file
 
 >**git commit -m "commit massage"** - fix changas with file
-
+> - -m (masseg)
+> - -a (let us avoid repeating command add)
