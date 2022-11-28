@@ -15,3 +15,5 @@
 > **git log** - get information about commints
 
 >**git checkout commit_hash_number** - transition between commints
+
+>**git diff** - show differences in our file
