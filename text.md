@@ -37,4 +37,4 @@
 >git merge - combine two branches
 
 change with first_branch
-
+change with second branch
