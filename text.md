@@ -36,5 +36,5 @@
 
 >git merge - combine two branches
 
->git checout -b name_branch - creating and transition to new branch
+>Example text
 
