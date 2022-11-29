@@ -29,3 +29,7 @@
 [part 2](https://habr.com/ru/post/542616/)
 
 ![<logo git>](</logo.jpg>)
+
+>git branch - display our branches
+
+>git branch name - create new branch
