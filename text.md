@@ -36,10 +36,5 @@
 
 >git merge - combine two branches
 
->Example text
 
-mgchjdx
-mnchjckfm
-,lui,nqewerty
-asdfgh
-z vjkjltw
+
