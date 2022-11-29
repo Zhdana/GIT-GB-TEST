@@ -38,3 +38,6 @@
 
 >git checout -b name_branch - creating and transition to new branch
 
+mgchjdx
+mnchjckfm
+,lui,n
