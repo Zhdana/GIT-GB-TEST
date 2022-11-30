@@ -36,8 +36,10 @@
 
 >git merge - combine two branches
 
-change with first_branch
-change with second branch
+>git clone - clone repository
 
-change with thirt branch
-change with fourth branch
+>git pull - pulls changes from a remote repository
+
+>git push - pushes changes to a remote repository
+
+>fork - creat copy strange repository
